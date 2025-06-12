@@ -120,6 +120,7 @@ const Internship = async (req, res) => {
     }
 };
 
+//GET ALL INTERNSHIP
 const getAllInternships = async (req, res) => {
     try{
         const internships = await InternshipModel.find();
