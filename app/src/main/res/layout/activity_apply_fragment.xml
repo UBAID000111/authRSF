@@ -58,9 +58,9 @@
         <EditText
             android:layout_width="300dp"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
+            android:textColorHint="@color/paleYellow"
+            android:textColor="@color/paleYellow"
             android:layout_marginLeft="10dp"
-            android:textColor="@color/black"
             android:id="@+id/editName"
             android:hint="Name" />
 
@@ -68,8 +68,8 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
-            android:textColorHint="@color/black"
-            android:textColor="@color/black"
+            android:textColorHint="@color/paleYellow"
+            android:textColor="@color/paleYellow"
             android:id="@+id/editEmail"
             android:hint="Email" />
 
@@ -77,9 +77,9 @@
             android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:id="@+id/editPhone"
-            android:textColorHint="@color/black"
             android:layout_marginLeft="10dp"
-            android:textColor="@color/black"
+            android:textColorHint="@color/paleYellow"
+            android:textColor="@color/paleYellow"
             android:hint="Phone" />
 
         <EditText
@@ -87,8 +87,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/editSkills"
             android:layout_marginLeft="10dp"
-            android:textColorHint="@color/black"
-            android:textColor="@color/black"
+            android:textColorHint="@color/paleYellow"
+            android:textColor="@color/paleYellow"
             android:hint="Skills" />
 
         <Spinner

@@ -8,4 +8,6 @@
     <color name="grey">#6F6F6F</color>
     <color name="cyan">#CCFFFF</color>
     <color name="paleYellow">#FFFFCC</color>
+    <color name="yellow">#FBFB80</color>
+    <color name="lightGray">#F5F5F5</color>
 </resources>
