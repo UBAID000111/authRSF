@@ -6,4 +6,6 @@
     <color name="green">#88CA30</color>
     <color name="dark_blue">#021171</color>
     <color name="grey">#6F6F6F</color>
+    <color name="cyan">#CCFFFF</color>
+    <color name="paleYellow">#FFFFCC</color>
 </resources>
